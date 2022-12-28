@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javedkumail
 - 👀 I’m interested in DevOps Developer
 - 🌱 I’m currently learning MERN stack|AWS|GCP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Student @ Amity University
 - 📫 How to reach me ...
 
 <!---
