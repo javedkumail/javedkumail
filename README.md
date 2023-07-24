@@ -9,3 +9,4 @@
 javedkumail/javedkumail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![lfs203-linux-for-cloud-technicians-essentials](https://github.com/javedkumail/javedkumail/assets/107232454/54bc552c-454b-46be-97f3-ba1f74ae2bcc)
