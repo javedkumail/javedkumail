@@ -12,9 +12,6 @@ Passionate about technology<br>Proficient in open-source technologies<br>Cloud-n
 ![](https://github-readme-streak-stats.herokuapp.com/?user=javedkumail&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=javedkumail&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=javedkumail&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=javedkumail&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
