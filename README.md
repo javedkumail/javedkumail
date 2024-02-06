@@ -5,12 +5,13 @@ Passionate about technology<br>Proficient in open-source technologies<br>Cloud-n
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javed-kumail-084338241/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@javedkumail) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/javed_kumail) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@javedkumail2781) 
-[![Upwork](https://img.shields.io/badge/Upwork-%236fda44.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011ccaa53d81d962a8)
-[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white)](https://javedkumail.hashnode.dev/)
 
+[![Upwork](https://img.shields.io/badge/Upwork-%236fda44.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011ccaa53d81d962a8)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@javedkumail2781) 
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white)](https://javedkumail.hashnode.dev/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@javedkumail)
 
 # 💻 Tech Stack:
 
