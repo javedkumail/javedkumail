@@ -1,5 +1,5 @@
 # 💫 About Me:
-Diverse interdisciplinary individual with a passoion for continuous learning.
+Diverse interdisciplinary individual with a passion for continuous learning.
 
 ☁️ 𝗖𝗹𝗼𝘂𝗱 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀: Azure | GCP | Oracle Cloud Infrastructure
 
