@@ -1,5 +1,18 @@
 # 💫 About Me:
-Passionate about technology<br>Proficient in open-source technologies<br>Cloud-native solutions<br>=> Linux Administration<br>- Bash command-line operations<br>- Containerization : Docker | Kubernetes | Podman | Multipaas<br>- Filesystems and Operations<br>- Proficient in Git and GitOps practices<br>- Strong understanding of networking<br>- System Configuration<br>- Proficient in Troubleshooting<br>- Virtualization : Hyper-V | VMware | WSL
+Diverse interdisciplinary individual with a passoion for continuous learning.
+
+☁️ 𝗖𝗹𝗼𝘂𝗱 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀: Azure | GCP | Oracle Cloud Infrastructure
+☸️ 𝗖𝗼𝗻𝘁𝗮𝗶𝗻𝗲𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻 & 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻: Kubernetes | Podman | Docker | GKE | AKS | KIND
+🏗️ 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝘀 𝗖𝗼𝗱𝗲 (𝗜𝗮𝗖): Terraform 
+⚙️ 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻: Python | Bash Scripting | GitHub Actions
+♾️ 𝗖𝗜/𝗖𝗗 & 𝗗𝗲𝘃𝗢𝗽𝘀: GitHub Actions | GitLab CI/CD | Azure DevOps
+💹 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴 & 𝗟𝗼𝗴𝗴𝗶𝗻𝗴: Prometheus | Grafana | Loki | NewRelic
+🔗 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗰𝗼𝗻𝘁𝗿𝗼𝗹 : Git
+🔐 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴 & 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆: VPC | Hub-Spoke Topology | Load Balancing (NGINX, Cloudflare)
+💾 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: MySQL (Azure RDS),
+🖥️ 𝗩𝗶𝗿𝘁𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 : Hyper-V | WSL | Multipass
+
+Seeking opportunities for growth and impact in various fields.
 
 
 ## 🌐 Socials:
